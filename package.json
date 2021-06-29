@@ -1,0 +1,12 @@
+{
+  "name": "project.json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Hoang-M-Nguyen/tableau-wdc-part-1",
+  "author": "hoang.nguyen <hoang.nguyen@Cotiviti.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.0.2",
+    "jquery": "^3.6.0"
+  }
+}
